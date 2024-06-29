@@ -8,7 +8,13 @@ Animal image dataset folder.zip:
 Animal Model download:
 [Download animal_model.h5](https://drive.google.com/file/d/1gmcokRx9h0fXpHvG5ukgRY82E9Z6hCym/view?usp=sharing)
 
-
+Learning Resources  For tensorflow:
+Lear ML with TensorFlow:
+https://www.tensorflow.org/resources/learn-ml
+FreeCodeCamp:
+https://youtu.be/tPYj3fFJGjk?si=jHiG_enZbhCFUGCd
+kaggle:
+https://www.kaggle.com/learn
 
 Clone the repository:
 
