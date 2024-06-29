@@ -8,16 +8,19 @@ Animal image dataset folder.zip:
 Animal Model download:
 [Download animal_model.h5](https://drive.google.com/file/d/1gmcokRx9h0fXpHvG5ukgRY82E9Z6hCym/view?usp=sharing)
 
-Learning Resources  For tensorflow:.
+# Learning Resources  For tensorflow:.
+Introduction to Python:
+https://youtu.be/_uQrJ0TkZlc?si=S6xG10vmPbLXF6q3 .
 
 Lear ML with TensorFlow:
 https://www.tensorflow.org/resources/learn-ml .
 FreeCodeCamp:
 https://youtu.be/tPYj3fFJGjk?si=jHiG_enZbhCFUGCd .
+
 kaggle:
 https://www.kaggle.com/learn .
 
-Clone the repository:
+# Clone the repository:
 
 ```bash
 git clone https://github.com/Alam1n/Animal_Image_classifier_RAIN_INN.git
