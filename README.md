@@ -8,6 +8,9 @@ Animal image dataset folder.zip:
 Animal Model download:
 [Download animal_model.h5](https://drive.google.com/file/d/1gmcokRx9h0fXpHvG5ukgRY82E9Z6hCym/view?usp=sharing)
 
+Colab Code Link:
+https://colab.research.google.com/drive/1YxAAT06EiuFMaqImBvtUjpTh5rVHnbO_
+
 # Learning Resources  For tensorflow:.
 Introduction to Python:
 https://youtu.be/_uQrJ0TkZlc?si=S6xG10vmPbLXF6q3 .
