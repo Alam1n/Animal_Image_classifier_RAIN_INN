@@ -6,6 +6,16 @@
     <title>Animal Image Classifier</title>
     <!-- Bootstrap CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        #preview {
+            display: none;
+            max-width: 100%;
+            margin-top: 20px;
+        }
+        #result {
+            margin-top: 20px;
+        }
+    </style>
 </head>
 <body>
     <div class="container mt-5">
@@ -21,6 +31,7 @@
                                 <label for="file">Upload an Image</label>
                                 <input type="file" class="form-control-file" id="file" name="file" required>
                             </div>
+                            <img id="preview" src="#" alt="Image Preview">
                             <button type="submit" class="btn btn-primary btn-block">Classify</button>
                         </form>
                         <div id="result" class="mt-3"></div>
@@ -37,6 +48,14 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script>
         $(document).ready(function () {
+            $('#file').change(function () {
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    $('#preview').attr('src', e.target.result).show();
+                }
+                reader.readAsDataURL(this.files[0]);
+            });
+
             $('#upload-form').on('submit', function (e) {
                 e.preventDefault();
                 var formData = new FormData(this);
