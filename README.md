@@ -23,12 +23,12 @@ https://youtu.be/tPYj3fFJGjk?si=jHiG_enZbhCFUGCd .
 
 kaggle:
 https://www.kaggle.com/learn .
+# key Tips:
+1. You need Python versions 3.9 to 3.11 to run the code later versions do not work with this code.
+2. All the requirements are in requirements.txt.
 
 # Clone the repository:
 
 ```bash
 git clone https://github.com/Alam1n/Animal_Image_classifier_RAIN_INN.git
-
-# key Tips:
-1. You need Python versions 3.9 to 3.11 to run the code later versions do not work with this code.
-2. All the requirements are in requirements.txt.
+```
