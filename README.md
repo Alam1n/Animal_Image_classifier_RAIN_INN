@@ -2,7 +2,7 @@
 This repository contains all the code and files that will be used in the Animal image classification with tensorflow workshop 
 Some Files where to big for me too add to the git hub repo so here are the links to download them:
 
-Animal image dataset folder.zip:
+Animal classification image dataset folder.zip:
 [Download 10_classes_of_animal.zip](https://drive.google.com/file/d/1yQ6bR6sqwUKX20zU1w7vTErzFrScdKeY/view?usp=sharing)
 
 Animal Model download:
