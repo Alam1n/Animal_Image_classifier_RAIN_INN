@@ -9,7 +9,7 @@ Animal Model download:
 [Download animal_model.h5](https://drive.google.com/file/d/1gmcokRx9h0fXpHvG5ukgRY82E9Z6hCym/view?usp=sharing)
 
 
-# This is thelinks to the colab code 
+# This is the links to the colab code 
 Colab Code Link:
 https://colab.research.google.com/drive/1YxAAT06EiuFMaqImBvtUjpTh5rVHnbO_
 
