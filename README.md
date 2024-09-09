@@ -7,7 +7,7 @@ In this project, a convolutional neural network (CNN) was used to classify image
 ### Key Features:
 * Model: EfficientNetB0, a highly efficient CNN architecture.
 
-* Accuracy: The model achieves approximately 80% accuracy in classifying animal images across the ten classes.
+* Accuracy: The model achieves approximately 89% accuracy in classifying animal images across the ten classes.
 
 This project is a part of the Animal Image Classification with TensorFlow workshop and showcases the practical application of deep learning for image classification tasks.
 
