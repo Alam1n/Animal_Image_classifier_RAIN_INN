@@ -46,3 +46,4 @@ https://www.kaggle.com/learn .
 ```bash
 git clone https://github.com/Alam1n/Animal_Image_classifier_RAIN_INN.git
 ```
+You can test it out on the web page [here](https://muhammadam1n.pythonanywhere.com/upload).
