@@ -5,8 +5,9 @@ This repository contains the code and files for an animal image classification p
 In this project, a convolutional neural network (CNN) was used to classify images of animals into one of ten categories: Butterfly, Cat, Chicken, Cow, Dog, Elephant, Horse, Sheep, and more. The model was built using the EfficientNetB0 architecture, a pretrained model available in TensorFlow.
 
 ### Key Features:
-Model: EfficientNetB0, a highly efficient CNN architecture.
-Accuracy: The model achieves approximately 80% accuracy in classifying animal images across the ten classes.
+* Model: EfficientNetB0, a highly efficient CNN architecture.
+
+* Accuracy: The model achieves approximately 80% accuracy in classifying animal images across the ten classes.
 This project is a part of the Animal Image Classification with TensorFlow workshop and showcases the practical application of deep learning for image classification tasks.
 
 
