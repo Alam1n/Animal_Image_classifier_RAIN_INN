@@ -25,7 +25,7 @@ Animal Model download:
 Colab Code Link:
 https://colab.research.google.com/drive/1YxAAT06EiuFMaqImBvtUjpTh5rVHnbO_
 
-# Learning Resources  For tensorflow:.
+# Learning Resources  For tensorflow:
 Introduction to Python:
 https://youtu.be/_uQrJ0TkZlc?si=S6xG10vmPbLXF6q3 .
 
